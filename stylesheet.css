@@ -1,0 +1,75 @@
+body{
+    background-image: url("https://w0.peakpx.com/wallpaper/832/793/HD-wallpaper-aquatic-life-aero-creative.jpg");
+    background-size: cover;
+    background-image: center;
+    
+
+}
+
+#topic{
+    text-transform: uppercase;
+    color: #bc1852;
+    background: #1a2f23;
+    text-align: center;
+    width: 500px;
+    border: 3px solid #1a2f23 ;
+    margin-left: 35%;
+}
+
+button{
+    color: rgb(27, 147, 221);
+    background-color: rgb(69, 67, 71);
+}
+
+.menu-bar{
+    background-color: #FF9B82;
+    margin-top: 15px;
+}
+
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+
+.menu-bar ul li{
+    width: 200px;
+    margin: 2px;
+
+}
+.pre
+{
+    margin-top: 15px;
+    height: 300px;
+    width: 300px;
+    display: inline-flex;
+}
+figure{
+    border: 4px #088395  solid;
+    text-align: center;
+}
+figcaption{
+    color:black;
+    font-size: 20px;
+}
+.pre div{
+    margin-left: 50px;
+}
+
+div.scroll {
+    background-color: #fed9ff;
+    width: 600px;
+    height: 150px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    padding: 20px;
+  }
+  div h1{
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .floatter{
+    margin-top: 50px;
+    margin-left: 20px;
+  }
